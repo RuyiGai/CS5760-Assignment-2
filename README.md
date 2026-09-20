@@ -33,7 +33,7 @@ The assignment includes both theoretical questions and programming tasks. The pr
 
 ## Q1: Worked Example Document Classification
 
-This section calculates the probability scores for the document **predictable no fun** under the positive and negative classes using the given priors and smoothed likelihoods.
+This section calculates the probability scores for the document 'predictable no fun' under the positive and negative classes using the given priors and smoothed likelihoods.
 
 The final class is determined by comparing the probability scores of the two classes.
 

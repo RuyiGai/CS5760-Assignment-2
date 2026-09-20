@@ -17,8 +17,8 @@ Homework 2.ipynb
 README.md
 ```
 
-- `Homework 2.ipynb` — Contains the Python programming code, execution results.
-- `Homework 2.docx` — Contains screenshots of the short-answer and programming questions.
+- `Homework 2.ipynb` — Contains the Python programming code and execution results.
+- `Homework 2.docx` — Contains the answers and screenshots for the calculation and programming questions.
 - `README.md` — Provides an overview of the assignment and summarizes the completed work.
 
 ---
@@ -33,7 +33,7 @@ The assignment includes both theoretical questions and programming tasks. The pr
 
 ## Q1: Worked Example Document Classification
 
-This section calculates the probability scores for the document predictable no fun under the positive and negative classes using the given priors and smoothed likelihoods.
+This section calculates the probability scores for the document **predictable no fun** under the positive and negative classes using the given priors and smoothed likelihoods.
 
 The final class is determined by comparing the probability scores of the two classes.
 
@@ -103,7 +103,7 @@ The program:
 - Tests the model on two sentences.
 - Compares their probabilities and determines which sentence the model prefers.
 
-The implementation uses Python's Counter to count unigrams and bigrams.
+The implementation uses Python's 'Counter' to count unigrams and bigrams.
 
 
 ## Technologies Used

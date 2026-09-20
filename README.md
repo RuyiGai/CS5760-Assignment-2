@@ -105,6 +105,7 @@ The program:
 
 The implementation uses Python's 'Counter' to count unigrams and bigrams.
 
+---
 
 ## Technologies Used
 
